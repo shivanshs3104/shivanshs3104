@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**shivanshs3104/shivanshs3104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
 <h3 align="center">A passionate FullStack and IoT developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivanshs3104](https://github.com/shivanshs3104)
