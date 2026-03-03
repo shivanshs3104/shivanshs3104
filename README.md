@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
-<h3 align="center">A passionate FullStack and IoT developer from India</h3>
+<h3 align="center">A passionate FullStack, IoT and AI/ML developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivanshs3104](https://github.com/shivanshs3104)
 
